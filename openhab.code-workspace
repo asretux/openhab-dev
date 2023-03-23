@@ -2,6 +2,9 @@
 	"folders": [
 		{
 			"path": "."
+		},
+		{
+			"path": "openhab-addons/bundles/org.openhab.binding.mitsubishi"
 		}
 	],
 	"settings": {
