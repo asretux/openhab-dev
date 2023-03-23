@@ -6,6 +6,5 @@ example.java
 openhab-addons/
 openhab.code-workspace
 org.openhab.binding.bsblan-4.0.0-SNAPSHOT-sources.jar
-settings.xml
 userdata/
 conf/
